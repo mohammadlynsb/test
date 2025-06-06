@@ -1,0 +1,8 @@
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\obj\Debug\LearnGit.csproj.AssemblyReference.cache
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\obj\Debug\LearnGit.csproj.SuggestedBindingRedirects.cache
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\obj\Debug\LearnGit.csproj.CoreCompileInputs.cache
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\bin\Debug\LearnGit.exe.config
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\bin\Debug\LearnGit.exe
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\bin\Debug\LearnGit.pdb
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\obj\Debug\LearnGit.exe
+E:\C sharp files\LearnGitHub2\LearnGit\LearnGit\obj\Debug\LearnGit.pdb
